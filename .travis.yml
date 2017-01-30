@@ -7,4 +7,4 @@ script:
 - bundle exec codeclimate-test-reporter
 addons:
   code_climate:
-    repo_token: ef3c90e7b5eb13c9242a30d783ed701afa9a8514b6544d5972ca590505d2a12e
+    repo_token: f0ddfb116255e5c9e02c0ced3d0c315b2e05cfa75ecbdc45219c4a78394384f8
